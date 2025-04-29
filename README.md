@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Mohammad Ebrahimi Far, a web developer with 3+ years of experience in PHP and Laravel , JS . Skills: HTML,CSS,Js,React,MySQL , RESTful APIs. Let’s go :)
+Hi, I'm Mohammad Ebrahimi Far, a web developer with 3+ years of experience in PHP and React . Skills: HTML ,CSS ,Js ,Laravel ,MySQL ,RESTful APIs. Let’s go :)
 
 
 ## 🌐 Socials:
